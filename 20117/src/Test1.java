@@ -5,6 +5,7 @@ public class Test1 {
 		System.out.println("human");
 		System.out.println("people");
 		System.out.println("pal");
+		System.out.println("nam");
 	}
 
 }
